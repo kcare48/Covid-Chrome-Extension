@@ -1,0 +1,18 @@
+body {
+    background-color:aliceblue;
+}
+
+h2 {
+    color: rgb(51, 53, 53);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+.table {
+    color:rgb(51, 53, 53);
+}
+
+.text {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
